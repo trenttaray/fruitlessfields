@@ -1,0 +1,7 @@
+{
+    "name": "Player",
+    "fov": 120,
+    "volume": 18,
+    "pointer": 0,
+    "align": 0
+}
